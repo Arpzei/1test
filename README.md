@@ -1,4 +1,3 @@
 # My First Repo
-description of it
+finally ready to start
 
-Hello guys 
